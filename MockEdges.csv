@@ -1,0 +1,3 @@
+id;source;target;mainstat;seconddarystat;thickness;highlighted;color
+edge1;node1;node2;TheMain;TheSub;3;TRUE;cyan
+edge2;node3;node2;Main2;Sub2;1;FALSE;orange

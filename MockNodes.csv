@@ -1,0 +1,5 @@
+id;title;subtitle;mainstat;secondarystat;color;icon;highlighted
+node1;PC;Windows;AMD;16gbRAM;blue;;TRUE
+node2;PC;Linux;Intel;32gbRAM;green;eye;FALSE
+node3;Mac;MacOS;M3;16gbRAM;gray;apps;FALSE
+node4;Alone;SoLonely;JustHere;NotConnected;red;;FALSE
